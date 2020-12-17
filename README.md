@@ -1,4 +1,4 @@
-# ESP8266, MQTT, K-Type tempature sensor (I2C) (based on MAX31855)
+# ESP8266, MQTT, K-Type temperature sensor (I2C) (based on MAX31855)
 
 ## Requirements
 ### Hardware
@@ -14,11 +14,11 @@
 - Plug **Digital High Temperature Sensor to D1 (C -- SDC clock) and D2 (D -- SDA data)** ;
 - Download and install the [DFRobot_MAX31855 Library](https://wiki.dfrobot.com/Gravity__Digital_High_Temperature_Sensor__K-type__SKU_DFR0558)
 - Download and install the Libraries for ESP8266 in Arduino
-- Download and edit source ;
-- Upload schema ;
+- Download and edit source file;
+- Upload schema to NodeMCU ;
+- **Optional:** Configure your new sensor in Home Assistant ;
+- **Mandatory:** Start your oven and make a pizza 🍕 !
 
 ## Pictures
-
 ![](https://i.imgur.com/84AFQEx.jpg)
-
 ![](https://i.imgur.com/7VeapuK.jpg)
