@@ -22,3 +22,6 @@
 ## Pictures
 ![](https://i.imgur.com/84AFQEx.jpg)
 ![](https://i.imgur.com/7VeapuK.jpg)
+
+![Accuracy test](https://i.imgur.com/OVOGIBq.jpg)
+
